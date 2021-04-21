@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-20T08:22:47 IST" name="Default suite" finished-at="2021-04-20T08:23:09 IST" duration-ms="21459">
+    <groups>
+    </groups>
+    <test started-at="2021-04-20T08:22:47 IST" name="Default test" finished-at="2021-04-20T08:23:09 IST" duration-ms="21459">
+      <class name="kite_pom_pagefactory_testNG_systematic.Kite_test">
+        <test-method is-config="true" signature="browser()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:47 IST" name="browser" finished-at="2021-04-20T08:22:53 IST" duration-ms="5525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="verify_Id(java.lang.String, java.lang.String)[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:53 IST" name="verify_Id" data-provider="logindata" finished-at="2021-04-20T08:22:54 IST" duration-ms="1047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akash1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akashpass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Id -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:54 IST" name="logout" finished-at="2021-04-20T08:22:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:54 IST" name="browser" finished-at="2021-04-20T08:22:58 IST" duration-ms="4002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="verify_Id(java.lang.String, java.lang.String)[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:58 IST" name="verify_Id" data-provider="logindata" finished-at="2021-04-20T08:22:59 IST" duration-ms="986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akash2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akashpass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Id -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:59 IST" name="logout" finished-at="2021-04-20T08:22:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:22:59 IST" name="browser" finished-at="2021-04-20T08:23:03 IST" duration-ms="4089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="verify_Id(java.lang.String, java.lang.String)[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:23:03 IST" name="verify_Id" data-provider="logindata" finished-at="2021-04-20T08:23:04 IST" duration-ms="955" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akash3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akashpass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Id -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:23:04 IST" name="logout" finished-at="2021-04-20T08:23:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:23:04 IST" name="browser" finished-at="2021-04-20T08:23:08 IST" duration-ms="3716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="verify_Id(java.lang.String, java.lang.String)[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:23:08 IST" name="verify_Id" data-provider="logindata" finished-at="2021-04-20T08:23:09 IST" duration-ms="1063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akash4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akashpass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Id -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:23:09 IST" name="logout" finished-at="2021-04-20T08:23:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:kite_pom_pagefactory_testNG_systematic.Kite_test@1677d1]" started-at="2021-04-20T08:23:09 IST" name="closebrowser" finished-at="2021-04-20T08:23:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- kite_pom_pagefactory_testNG_systematic.Kite_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
